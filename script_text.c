@@ -1,4 +1,4 @@
-#include "noel.h"
+#include "shazam.h"
 
 char *EN_SCRIPT[16] = {
 	"You selected English", //0
